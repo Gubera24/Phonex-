@@ -28,8 +28,6 @@ services:
         sync: false 
       - key: BUTTON_LOCK
         sync: false 
-      - key: BUTTON_LOCK_TEXT
-        sync: false 
       - key: CHANNELS
         sync: false 
       - key: COLLECTION_NAME
