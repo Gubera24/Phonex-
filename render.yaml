@@ -19,47 +19,47 @@ services:
       - key: DATABASE_NAME
         sync: false
       - key: DATABASE_URI
-        sync: false 
+        sync: false
       - key: PICS
         sync: false
       - key: LOG_CHANNEL
-        sync: false    
-      - key: AUTH_CHANNEL
         sync: false 
+      - key: AUTH_CHANNEL
+        sync: false
       - key: BUTTON_LOCK
-        sync: false 
+        sync: false
       - key: CHANNELS
-        sync: false 
+        sync: false
       - key: COLLECTION_NAME
-        sync: false 
+        sync: false
       - key: CUSTOM_FILE_CAPTION
-        sync: false 
+        sync: false
       - key: FORCE_SUB_TEXT
-        sync: false 
+        sync: false
       - key: G_FILTER
-        sync: false 
+        sync: false
       - key: IMDB
-        sync: false 
+        sync: false
       - key: IMDB_DELET_TIME
-        sync: false 
+        sync: false
       - key: IMDB_TEMPLATE
-        sync: false 
+        sync: false
       - key: MAX_RIST_BTNS
-        sync: false 
+        sync: false
       - key: LOG_CHANNEL
-        sync: false 
+        sync: false
       - key: P_TTI_SHOW_OFF
-        sync: false 
+        sync: false
       - key: PMFILTER
-        sync: false 
+        sync: false
       - key: SINGLE_BUTTON
-        sync: false 
+        sync: false
       - key: START_MESSAGE
-        sync: false 
+        sync: false
       - key: SUPPORT_CHAT
-        sync: false 
+        sync: false
       - key: WELCOM_PIC
-        sync: false  
+        sync: false
       - key: WELCOM_TEXT
-        sync: false 
+        sync: false
     autoDeploy: false
