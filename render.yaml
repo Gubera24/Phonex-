@@ -62,4 +62,4 @@ services:
         sync: false
       - key: WELCOM_TEXT
         sync: false
-    autoDeploy: false
+    autoDeploy: True
